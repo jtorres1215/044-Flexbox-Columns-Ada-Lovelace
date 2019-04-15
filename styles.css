@@ -1,0 +1,49 @@
+.title {
+    font-size:30px;
+    }
+.container {
+    display:flex;
+    
+    }
+.image {
+    display:flex;
+    justify-content:center;
+    height:350px;
+    width:850px;
+    }
+.left {
+    width:50%;
+    height:50%;
+    border:5px solid green;
+    background-color:pink;
+}
+.right {
+    width:50%;
+    
+    border:5px solid hotpink;
+    background-color:purple;
+    }
+body {
+    background-color:orange;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+    max-height: 400px;
+}
